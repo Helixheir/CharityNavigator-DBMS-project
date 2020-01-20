@@ -1,4 +1,6 @@
 # CharityNavigator DBMS project
+## Author
+ helixheir@yahoo.com - Sri Harsha R
 
 ## About the project
 
