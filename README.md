@@ -10,4 +10,4 @@
 
 - install xampp
 - clone this repository into xampp/htdocs
-- read charitynavigator.sql file to setup the database
+- read charity_navigator.sql file to setup the database
